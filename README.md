@@ -2,7 +2,7 @@
 
 Before you dive into your first coding lessons, here’s what’s coming up – and what you have to look forward to – in this 75+ hour free course.
 
-Jan graphic link
+![road to code](https://s3-us-west-2.amazonaws.com/curriculum-content/mobile-orientation/road-to-code_mobile+(1).png)
 
 By the end of Bootcamp Prep, you’ll: 
 * have a solid coding foundation
