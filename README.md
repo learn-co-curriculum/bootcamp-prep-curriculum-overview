@@ -14,4 +14,5 @@ By the end of Bootcamp Prep, you’ll:
   <source srcset="https://curriculum-content.s3.amazonaws.com/web-development/bootcamp_prep/rock_dodger.gif" type="image/gif">
   <img src="https://curriculum-content.s3.amazonaws.com/web-development/bootcamp_prep/rock_dodger.gif" alt="Rock Dodger demo!">
 </picture>
+
 In the next lesson, you’ll answer a few questions to set up a customized learning plan.
